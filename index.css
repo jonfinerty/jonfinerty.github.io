@@ -1,0 +1,152 @@
+
+::-moz-selection {
+  background-color: #a095ee;
+  color: #f0f0f0;
+  text-shadow: none; }
+
+::selection {
+  background-color: #a095ee;
+  color: #f0f0f0;
+  text-shadow: none; }
+
+body {
+  padding-top: 1%;
+  padding-bottom: 3%;
+  background-color: white;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 100;
+  color: #222222;
+}
+
+.header {
+  overflow: hidden;
+  width: 64%;
+  max-width: 720px;
+  min-width: 240px;
+  margin: auto;
+  clear: both;
+  padding-bottom: 20px;
+}
+
+.header-text {
+  min-width: 240px;
+  float: left;
+  font-size: 72px;
+  text-transform: uppercase;
+}
+
+.title-break {
+  display: inline-block;
+}
+
+.big-icon {
+  font-size: 240px;
+  color: #222222;
+}
+
+.fa-facebook {
+  padding-top: 10px;
+}
+
+.fa-envelope-o {
+  font-size: 200px;
+  padding-top: 14px;
+}
+
+a, a:link, a:hover, a:active, a:visited {
+  text-decoration: none;
+  color: #222222;
+}
+
+.tile-group {
+  max-width: 720px;
+  clear: both;
+  min-width: 240px;
+  margin: auto;
+  width: 64%;
+}
+
+.tile {
+  width: 240px;
+  height: 240px;
+  float: left;
+  text-align: center;
+  position: relative;
+  z-index: -1;
+  transition: background-color 0.5s ease-in-out 0s;
+}
+
+.tile:hover {
+  background-color: #999999;
+}
+
+.purple {
+  background-color: #a095ee;
+}
+
+.green {
+  background-color: #a6e3bb;
+}
+
+.orange {
+  background-color: #f2d383;
+}
+
+.red {
+  background-color: #ff7878;
+}
+
+.blue {
+  background-color: #a7d1e8;
+}
+
+.yellow {
+  background-color: #eaf173;
+}
+
+.open-up {
+  transition: all 1.5s;
+  -webkit-transform-origin: 50% 0%;
+  transform-origin: 50% 0%;
+  z-index: 3;
+}
+
+.perspective-root {
+  -webkit-perspective: 1500px;
+  -moz-transform: perspective(1500px);
+  -moz-transform-style: preserve-3d;
+  perspective: 1500px;
+  float: left;
+  display: block;
+  overflow: visible;
+}
+
+.perspective-root:hover .open-up {
+  -webkit-transform: rotateX(110deg);
+  transform: rotateX(110deg);
+}
+
+.hidden-text {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  z-index: -3;
+  text-align: center;
+  box-shadow: inset 0px 0px 15px #222222;
+}
+
+.huddle-title {
+  padding-top: 30px;
+  font-size: 52px;
+  color: #0089D0;
+}
+
+.huddle-desc {
+  font-weight: 400;
+  font-size: 14px;
+}
+
+@media (min-width: 1125px) {
+  .new-line-tile {
+    clear: left; }
+}
