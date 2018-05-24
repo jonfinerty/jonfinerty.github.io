@@ -40,17 +40,18 @@ body {
 }
 
 .big-icon {
-  font-size: 240px;
+  font-size: 180px;
   color: #222222;
+  padding-top: 30px;
 }
 
 .fa-facebook {
-  padding-top: 10px;
+  padding-top: 40px;
 }
 
 .fa-envelope-o {
-  font-size: 200px;
-  padding-top: 14px;
+  font-size: 150px;
+  padding-top: 44px;
 }
 
 a, a:link, a:hover, a:active, a:visited {
@@ -104,6 +105,10 @@ a, a:link, a:hover, a:active, a:visited {
   background-color: #eaf173;
 }
 
+.white {
+  background-color: #FFFFFF;
+}
+
 .open-up {
   transition: all 1.5s;
   -webkit-transform-origin: 50% 0%;
@@ -135,13 +140,13 @@ a, a:link, a:hover, a:active, a:visited {
   box-shadow: inset 0px 0px 15px #222222;
 }
 
-.movivo-title {
+.worldremit-title {
   padding-top: 30px;
-  font-size: 52px;
-  color: #0089D0;
+  font-size: 40px;
+  color: #0BADF2;
 }
 
-.movivo-desc {
+.worldremit-desc {
   font-weight: 400;
   font-size: 14px;
 }
