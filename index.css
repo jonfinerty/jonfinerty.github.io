@@ -137,13 +137,13 @@ a, a:link, a:hover, a:active, a:visited {
   position: absolute;
   z-index: -3;
   text-align: center;
-  box-shadow: inset 0px 0px 15px #222222;
+  box-shadow: inset 0px 0px 6px #222222;
 }
 
 .worldremit-title {
   padding-top: 30px;
   font-size: 40px;
-  color: #0BADF2;
+  color: #5A4684;
 }
 
 .worldremit-desc {
