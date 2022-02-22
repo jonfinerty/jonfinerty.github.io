@@ -45,15 +45,6 @@ body {
   padding-top: 30px;
 }
 
-.fa-facebook {
-  padding-top: 40px;
-}
-
-.fa-envelope-o {
-  font-size: 150px;
-  padding-top: 44px;
-}
-
 a, a:link, a:hover, a:active, a:visited {
   text-decoration: none;
   color: #222222;
@@ -140,15 +131,26 @@ a, a:link, a:hover, a:active, a:visited {
   box-shadow: inset 0px 0px 6px #222222;
 }
 
-.worldremit-title {
+.duffel-title {
   padding-top: 30px;
   font-size: 40px;
-  color: #5A4684;
 }
 
-.worldremit-desc {
+.duffel-desc {
   font-weight: 400;
   font-size: 14px;
+}
+
+.ode-title {
+  padding-top: 30px;
+  font-size: 40px;
+  font-family: 'Libre Baskerville', serif;
+}
+
+.duffel-desc {
+  font-weight: 400;
+  font-size: 14px;
+  font-family: 'Libre Baskerville', serif;
 }
 
 @media (min-width: 1125px) {
