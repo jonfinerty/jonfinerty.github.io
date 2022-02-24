@@ -13,15 +13,15 @@ body {
   padding-top: 1%;
   padding-bottom: 3%;
   background-color: white;
-  font-family: 'Raleway', sans-serif;
-  font-weight: 100;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
   color: #222222;
 }
 
 .header {
   overflow: hidden;
   width: 64%;
-  max-width: 720px;
+  max-width: 800px;
   min-width: 240px;
   margin: auto;
   clear: both;
@@ -51,7 +51,7 @@ a, a:link, a:hover, a:active, a:visited {
 }
 
 .tile-group {
-  max-width: 720px;
+  max-width: 800px;
   clear: both;
   min-width: 240px;
   margin: auto;
