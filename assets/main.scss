@@ -1,0 +1,19 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+#notes {
+    border-top: 1px dashed #e8e8e8;
+    margin-top: 72px;
+    padding-top: 24px;
+}
+
+#notes, .footnotes {
+    font-size: 0.75em
+}
+
+.post-list {
+    margin-left: 16px;
+}
