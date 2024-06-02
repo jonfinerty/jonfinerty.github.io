@@ -48,6 +48,6 @@ Some will prove more tricky than others. Comfort the dying and dying gallantly b
 I'm on 5/21. Decent start.
 
 
-#### Notes
+### Notes
 
 [^trope]: I'm an absolute sucker for the [Competence Porn](https://tvtropes.org/pmwiki/pmwiki.php/Main/CompetencePorn) trope. West Wing, House, M.D., Apollo 13, James Bond, Ocean's Eleven.

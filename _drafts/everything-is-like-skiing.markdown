@@ -17,7 +17,7 @@ The children whizzing by have not developed any such sense of self preservation,
 
 This phenomenon that committing to something, leaning *into* the scary thing, actively makes it easier I now see everywhere. Whereas being timid, careful and cautious as a safety mechanism has the perverse side affect of making the outcomes worse.
 
-Think to hard about catching a ball, and you fumble it. Nervous about public speaking, the nerves shine through to your audience. Going faster on a bicycle makes it more stable.
+Think too hard about catching a ball, and you fumble it. Nervous about public speaking, the nerves shine through to your audience. Going faster on a bicycle makes it more stable.
 
 I think about this a bunch at work, almost in reverse[^observer]. The way your feel and think about stuff impacts outcomes. Unsure about a project or don't believe in an initiative and they will be more likely to fail. Committing to them helps them succeed. I like to think you can reverse engineer this and choose or influence how you feel[^stoicism]. 
 
@@ -31,8 +31,8 @@ You've got to commit[^climbing].
 
 [^hitch]: [Missing the ground](https://www.goodreads.com/quotes/7335195-there-is-an-art-it-says-or-rather-a-knack) is also important.
 
-[^observer]: The link in my head is a odd [observer effect](https://en.wikipedia.org/wiki/Observer_effect_(physics)) which says that when you measure something, you affect it. In this case, when you think/feel about outcomes, you affect outcomes.
+[^observer]: The link in my head is an odd [observer effect](https://en.wikipedia.org/wiki/Observer_effect_(physics)) which says that when you measure something, you affect it. In this case, when you think/feel about outcomes, you affect outcomes.
 
-[^stoicism]: An important belief I have is that you can exert control, or at least influence over your own feelings, which is based of some formative reading of [stoicism](https://en.wikipedia.org/wiki/Stoicism#:~:text=Stoicism%20teaches%20the%20development%20of,the%20universal%20reason%20(logos).) I've latched onto. Not always possible or desirable but I feel an important pursuit. It let's me believe I have control in life and not just a mass of chemicals in my brain sweeping me along.
+[^stoicism]: An important belief I have is that you can exert control, or at least influence over your own feelings, which is based of some formative reading of [stoicism](https://en.wikipedia.org/wiki/Stoicism#:~:text=Stoicism%20teaches%20the%20development%20of,the%20universal%20reason%20(logos).) I've latched onto. Not always possible or desirable but I feel it's an important pursuit. It let's me believe I have control in life and not just a mass of chemicals in my brain sweeping me along.
 
-[^climbing]: *Commit!* is also something I say at myself and others during climbing. When I can't do a particular move in climbing, 90% of the time it's not my muscles or finger tendons giving way at the apex of strain, it's that I instinctively take my feet off the footholds, to land comfortably when I think I might not make it, which itself causes the failure.
+[^climbing]: *Commit!* is also something I say at myself and others during climbing. When I can't do a particular move in climbing, 90% of the time it's not my muscles or finger tendons giving way at the apex of strain, it's that I instinctively take my feet off the footholds. Aiming to land comfortably when I think I might not make it, which itself causes the failure.
