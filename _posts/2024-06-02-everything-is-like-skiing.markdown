@@ -7,7 +7,7 @@ tagline: Leaning down the mountain
 
 I learnt to ski when I was 23 and I can't stop thinking about it. 
 
-A common experience of those fortunate enough to learn to ski as an adult is the edge-of-control nerves of skidding down a mountain face going ten miles an hour and it feeling like a hundred. All whilst countless toddlers overtake in their merry little congo lines, carefree and booking it.
+A common experience of those fortunate enough to learn to ski as an adult is the edge-of-control nerves of skidding down a mountain face going ten miles an hour and it feeling like a hundred. All whilst countless toddlers overtake in their merry little conga lines, carefree and booking it.
 
 The art of it, or rather, the knack[^hitch] is to face down hill with your weight forward. That is, the trick is to do exactly what you're scared of doing. Move your weight forward, towards the abyss of death. Moving your center of balance over the front of your skis allows them to catch and dig into the snow. Letting you steer safely sideways across the face of the slope and not straight down the harshest incline at dangerous Mach speeds.
 
