@@ -9,6 +9,6 @@ tagline: A developer should be able to...
 
 Inspired by Robert Heinlein’s [competent man](https://en.wikipedia.org/wiki/Competent_man)
 
-#### Notes
+### Notes
 
 [^caveat]: Should is a strong word. I see this list as aspirational, not gate-keeping.
