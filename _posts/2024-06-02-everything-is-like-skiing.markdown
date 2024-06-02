@@ -5,7 +5,7 @@ date:   2024-06-02 08:35:00 +0100
 tagline: Leaning down the mountain
 ---
 
-I learnt to ski when I was 23 and I can't stop thinking about it. 
+I learnt to ski when I was 23[^age] and I can't stop thinking about it. 
 
 A common experience of those fortunate enough to learn to ski as an adult is the edge-of-control nerves of skidding down a mountain face going ten miles an hour and it feeling like a hundred. All whilst countless toddlers overtake in their merry little conga lines, carefree and booking it.
 
@@ -28,6 +28,8 @@ So that is the fable I tell myself to balance out my cautious nature. There's pr
 You've got to commit[^climbing].
 
 ### Notes
+
+[^age]: I'm 33 at time of writing, so it has been a while.
 
 [^hitch]: [Missing the ground](https://www.goodreads.com/quotes/7335195-there-is-an-art-it-says-or-rather-a-knack) is also important.
 
