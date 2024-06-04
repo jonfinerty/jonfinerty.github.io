@@ -17,7 +17,7 @@ The children whizzing by have not developed any such sense of self preservation,
 
 This phenomenon that committing to something, leaning *into* the scary thing, actively makes it easier I now see everywhere. Whereas being timid, careful and cautious as a safety mechanism has the perverse side affect of making the outcomes worse.
 
-Think too hard about catching a ball, and you fumble it. Nervous about public speaking, the nerves shine through to your audience. Going faster on a bicycle makes it more stable.
+Think too hard about catching a ball, and you fumble it. Going faster on a bicycle makes it more stable.
 
 I think about this a bunch at work, almost in reverse[^observer]. The way your feel and think about stuff impacts outcomes. Unsure about a project or don't believe in an initiative and they will be more likely to fail. Committing to them helps them succeed. I like to think you can reverse engineer this and choose or influence how you feel[^stoicism]. 
 
