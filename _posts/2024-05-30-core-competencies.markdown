@@ -34,7 +34,7 @@ So, in order to keep my momentum and stave off boredom, I thought why not go fur
 :white_large_square: Analyse a new problem  
 :white_large_square: Pitch manure  
 :heavy_check_mark: Program a computer - *I'm a software engineer by trade*  
-:white_large_square: Cook a tasty meal  
+:heavy_check_mark: Cook a tasty meal  - *I've cooked Christmas dinner for 12 with all the trimmings[^trimmings]*  
 :white_large_square: Fight efficiently  
 :white_large_square: Die gallantly  
 
@@ -45,9 +45,10 @@ I have a 4-day sailing course booked that promises: *"once completed you will ha
 
 Some will prove more tricky than others. Comfort the dying and dying gallantly both will (hopefully!) require some nuanced interpretation. I'd also like to think up some totemic examples for the seemingly low hanging fruit of *cooperate*-style traits.  
 
-I'm on 5/21. Decent start.
+I'm on 6/21. Decent start.
 
 
 ### Notes
 
 [^trope]: I'm an absolute sucker for the [Competence Porn](https://tvtropes.org/pmwiki/pmwiki.php/Main/CompetencePorn) trope. West Wing, House, M.D., Apollo 13, James Bond, Ocean's Eleven.
+[^trimmings]: Necessary trimmings include yorkshire puddings, bread sauce, pigs in blankets and of course little paper crowns.
