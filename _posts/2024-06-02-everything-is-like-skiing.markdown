@@ -19,7 +19,7 @@ This phenomenon that committing to something, leaning *into* the scary thing, ac
 
 Think too hard about catching a ball, and you fumble it. Going faster on a bicycle makes it more stable.
 
-I think about this a bunch at work, almost in reverse[^observer]. The way your feel and think about stuff impacts outcomes. Unsure about a project or don't believe in an initiative and they will be more likely to fail. Committing to them helps them succeed. I like to think you can reverse engineer this and choose or influence how you feel[^stoicism]. 
+I think about this a bunch at work, almost in reverse[^observer]. The way you feel and think about stuff impacts outcomes. Unsure about a project or don't believe in an initiative and they will be more likely to fail. Committing to them helps them succeed. I like to think you can reverse engineer this and choose or influence how you feel[^stoicism]. 
 
 Yes you can't get things done through wishful thinking alone, but this implies it can be a key ingredient. Doing something by sheer force of will, being positive, looking for the *hows* and not the *why not* gets things done. Leaning down the mountain of work drives you forward, and makes things easier, even if it feels unintuitive at times.
 
