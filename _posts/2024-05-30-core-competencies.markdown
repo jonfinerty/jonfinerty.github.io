@@ -3,6 +3,9 @@ layout: post
 title:  "Core Competencies"
 date:   2024-05-30 16:54:35 +0100
 tagline: Becoming a more competent man
+related: 
+    - /everything-is-like-skiing
+    - /the-competent-developer
 ---
 I have a few beliefs. Things that even if they aren't true, I wish they were and I try to act accordingly. 
 

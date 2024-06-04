@@ -3,6 +3,9 @@ layout: post
 title:  "Consistency in Software"
 date:   2019-05-25 16:54:35 +0100
 tagline: The virtues of a single way to do things
+related: 
+    - /the-competent-developer
+    - /getting-feedback-is-a-skill
 ---
 
 

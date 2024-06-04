@@ -1,4 +1,29 @@
+
+
 <footer class="site-footer h-card">
+  {%- if page.related -%}
+  <div class="related-posts wrapper">
+    <h3>Some more writing</h3>
+    <div class="footer-col-wrapper">
+    
+    {%- for related in page.related -%}
+      {% assign related_post = site.posts 
+        | where: "url", related 
+        | first %}
+    <div class="footer-col">
+    <h3>
+      <a class="post-link" href="{{ related_post.url | relative_url }}">
+        {{ related_post.title }}
+      </a>
+      <span class="post-meta">{{ related_post.tagline }} </span>
+    </h3>
+  </div>
+    {%- endfor -%}
+    
+  </div>
+  </div>
+  {%- endif -%}
+
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
 
   <div class="wrapper">

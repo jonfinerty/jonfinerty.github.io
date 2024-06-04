@@ -3,6 +3,9 @@ layout: post
 title:  "Getting Feedback is a Skill"
 date:   2022-06-20 16:54:35 +0100
 tagline: How to get people to give you feedback
+related: 
+    - /the-competent-developer
+    - /everything-is-like-skiing
 ---
 
 As an Engineering Manager I’ve seen many Engineers stuck in mid-career limbo. The key to avoiding getting stuck is feedback. People think they’re getting feedback, but often it’s not the feedback they need to hear. Why is this?

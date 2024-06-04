@@ -3,6 +3,9 @@ layout: post
 title:  "Everything is like Skiing"
 date:   2024-06-02 08:35:00 +0100
 tagline: Leaning down the mountain
+related: 
+    - /core-competencies
+    - /getting-feedback-is-a-skill
 ---
 
 I learnt to ski when I was 23[^age] and I can't stop thinking about it. 
