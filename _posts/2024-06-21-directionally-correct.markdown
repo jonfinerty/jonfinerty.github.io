@@ -24,7 +24,7 @@ Again you overshoot, but less and you can correct earlier. You have a feel for t
 
 
 ### Three requirements 
-1.  **Make decisions quickly**. If you just need a rough, *directionally correct*, move towards something better you shouldn't sweat making the perfect decision/design, just start heading in the right direction as soon as possible, don't burn too much time.
+1.  **Make decisions quickly**. You need a rough, *directionally correct*, step towards something better. You shouldn't sweat making the perfect designs, just start heading in the right direction as soon as possible, don't burn too much time.
 2.  **You need to accelerate**. Get your experiments to fail quickly, learn where perfect is quicker by seeing it go whooshing past as you overshoot. Timidly tiptoeing around waiting for a eureka moment doesn't get things done.
 3.  **Course correct often**. You need to be paying attention to feedback to know when you should repeat the loop and make your next decision quickly. Keep humble, take input, throw away the first pancake and get on with the next experiment. 
 
