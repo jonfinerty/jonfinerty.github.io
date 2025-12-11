@@ -17,7 +17,7 @@ This is especially true at work, and might even be codified in performance asses
 
 Knowing this, what can I do about it? Treat your reliability score like a KPI. Key performance indicators (KPIs) are quantifiable measures of success. Typically they are used to measure progress towards goals in organisations or the health of systems. Treating reliability as a quantifiable measure will give us structure and ideas about how to improve it. So first we need to define reliability:
 
-$$\frac{\textit{Things you get done on time}}{\textit{Things you say you'll do}} = \textit{reliability}$$
+$$\frac{\text{Things you get done on time}}{\text{Things you say you'll do}} = \text{reliability}$$
 
 Simplistically, say you’ll do 20 tasks by Friday, and do 20 tasks by Friday - 20/20 - and you get the perfect score: 100%. Get none done, 0/20 and you’re at the bottom of the scale 0%. The variables in the equation hint at how you can improve your reliability.
 
