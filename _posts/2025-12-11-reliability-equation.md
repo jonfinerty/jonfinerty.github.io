@@ -24,7 +24,7 @@ Simplistically, say you’ll do 20 tasks by Friday, and do 20 tasks by Friday - 
 ## Three levers
 
 ### Do more things
-One way to game this number is to just do more. Regardless of the number of things you don’t get done, every extra task you do on time improves this ratio. However “just do more work” is pretty shit advice, and people who do commit to this path of improving their reliability often fall into the ‘hero culture’ antipattern of silo’ing and burnout.
+One way to game this number is to just do more. Regardless of the number of things you don’t get done, every extra task you do on time improves this ratio. However “just do more work” is pretty awful advice, and people who do commit to this path of improving their reliability often fall into the ‘hero culture’ antipattern of silo’ing and burnout.
 
 ### Do fewer things
 “Do less work” seems like a bit of a poisoned chalice of career advice. It’s easy to think that your manager or coworkers will think less of you, or consider you underperforming if you suddenly just pick up less work. But think of the effect unreliability has on others. Repeated unreliability will have your stakeholders consistently checking up on you because they cannot trust your estimates. That’s stress and overhead for them and justified micromanagement for you. Committing to less might actually increase the overall team output as your increased reliability frees up coordination time from others. As you grow you can increase the tasks you can reliably manage over time.
